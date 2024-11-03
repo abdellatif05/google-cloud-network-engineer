@@ -486,7 +486,7 @@
     - at the Network subnet level
   - Primary range, secondary range and authorized networks can access to control plane
 
-# Logging and Monitorin
+# Logging and Monitoring
 ### Firewall logs
   - enabled in firewall rules level (Legacy network not supported)
   - TCP and UDP
